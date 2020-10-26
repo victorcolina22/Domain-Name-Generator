@@ -1,0 +1,26 @@
+body {
+    background: grey;
+}
+
+.container {
+    background: white;
+    width: 20%;
+    height: 200px;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.header-container {
+    text-align: center;
+    padding-top: 1px;
+}
+
+.body-container {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.footer-container {
+    text-align: center;
+    padding: 30px;
+}
